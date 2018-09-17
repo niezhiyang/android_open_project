@@ -1,10 +1,12 @@
 # myNote
 笔记 自己看的
 ### 多渠道打包(脚本打包)
-* [VasDolly](https://github.com/Tencent/VasDolly)腾讯出版
+* [VasDolly](https://github.com/Tencent/VasDolly)腾讯出版<br>
+针对v1签名方式，利用zip的comment区域
+针对v2签名方式，利用apk中的签名块中插入key-value
 * [packer-ng-plugin](https://github.com/mcxiaoke/packer-ng-plugin)
 下一代Android打包工具，100个渠道包只需要10秒钟 
-* [walle](https://github.com/Meituan-Dianping/walle) 美团出品
+* [walle](https://github.com/Meituan-Dianping/walle) 美团出品  主要利用修改apk的目录META-INF中添加空文件，由于不需要重新签名，操作非常快
 ### 6.0动态权限
 * [PermissionsDispatcher](https://github.com/permissions-dispatcher/PermissionsDispatcher)最早且star最多的一个
 * [RxPermissions](https://github.com/tbruyelle/RxPermissions)链式编程
