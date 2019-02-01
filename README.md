@@ -21,3 +21,13 @@
 * [volley](https://github.com/google/volley) google的亲儿子
 * [okhttputils](https://github.com/hongyangAndroid/okhttputils) 张鸿洋 大神对 okhttp 的一个封装 ，但是现在已经不维护了
 
+### 组件化
+* [ARouter](https://github.com/alibaba/ARouter) *阿里出品* 
+Android平台中对页面、服务提供路由功能的中间件，我的目标是 —— 简单且够用
+* [Andromeda](https://github.com/iqiyi/Andromeda) *爱奇艺出品* 
+采用"接口+数据结构"的方式来实现组件间通信，这种方式相比协议的方式在于实现简单，维护方便.支持ipc
+* [WMRouter](https://github.com/meituan/WMRouter) *美团出品* 
+WMRouter是一款Android路由框架，基于组件化的设计思路，有功能灵活、使用简单的特点
+* [DeepLinkDispatch](https://github.com/jeasonlzy/okhttp-OkGo) *爱彼迎*
+* [ActivityRouter](https://github.com/mzule/ActivityRouter) 个人
+* [cc](https://github.com/luckybilly/CC) 个人
