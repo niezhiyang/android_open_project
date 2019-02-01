@@ -31,3 +31,10 @@ WMRouter是一款Android路由框架，基于组件化的设计思路，有功�
 * [DeepLinkDispatch](https://github.com/jeasonlzy/okhttp-OkGo) *爱彼迎*
 * [ActivityRouter](https://github.com/mzule/ActivityRouter) 个人
 * [cc](https://github.com/luckybilly/CC) 个人
+
+### 热修复
+* [Tinker](https://github.com/Tencent/tinker/wiki) *腾讯出品*  微信就是用的这个热修复
+* [AndFix](https://github.com/alibaba/AndFix) *阿里出品* 
+* [Robust](https://github.com/Meituan-Dianping/Robust) *美团*
+* [Amigo](https://github.com/eleme/Amigo) *饿了么*
+* [cc](https://github.com/luckybilly/CC) 个人
