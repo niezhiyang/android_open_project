@@ -48,3 +48,5 @@ WMRouter是一款Android路由框架，基于组件化的设计思路，有功�
 * [ArgusAPM](https://github.com/Qihoo360/ArgusAPM) *360*  ArgusAPM是360手机卫士客户端团队继RePlugin之后开源的又一个重量级开源项目。ArgusAPM是360移动端产品使用的可视化性能监控平台，为移动端APP提供性能监控与管理，可以迅速发现和定位各类APP性能和使用问题，帮助APP不断的提升用户体验。
 * [hugo](https://github.com/JakeWharton/hugo) *JakeWharton*  检测方法执行的时间
 * [AndroidPerformanceMonitor](https://github.com/markzhai/AndroidPerformanceMonitor) *老的名字BlockCanary*  是一个Android平台的一个非侵入式的性能监控组件，应用只需要实现一个抽象类，提供一些该组件需要的上下文环境，就可以在平时使用应用的时候检测主线程上的各种卡慢问题，并通过组件提供的各种信息分析出原因并进行修复
+* [battery-historian](https://github.com/google/battery-historian) *google*  电量优化
+
