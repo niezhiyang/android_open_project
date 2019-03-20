@@ -52,5 +52,6 @@ WMRouter是一款Android路由框架，基于组件化的设计思路，有功�
 * [DoraemonKit](https://github.com/didi/DoraemonKit) *滴滴*  <br>DoraemonKit 是一个功能集合面板，能够让每一个 App 快速接入一些常用的或者你没有实现的一些辅助开发工具、测试效率工具、视觉辅助工具，而且能够完美在 Doraemon 面板中接入你已经实现的与业务紧密耦合的一些非通有的辅助工具，功能强大，接入方便，便于扩展
 ### 图片压缩
 * [Luban](https://github.com/Curzibn/Luban)  可能是最接近微信朋友圈的图片压缩算法
-* [Compressor](https://github.com/zetbaitsu/Compressor) *square*  <br>检测内存泄露
- *腾讯 微信团队*  <br>Matrix 当前监控范围包括：应用安装包大小，帧率变化，启动耗时，卡顿，慢方法，SQLite 
+* [Compressor](https://github.com/zetbaitsu/Compressor) 
+* [Tiny](https://github.com/Sunzxyong/Tiny) 
+ https://github.com/Sunzxyong/Tiny
