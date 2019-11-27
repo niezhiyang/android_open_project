@@ -42,6 +42,7 @@ WMRouter是一款Android路由框架，基于组件化的设计思路，有功�
 * [VirtualAPK](https://github.com/didi/VirtualAPK) *滴滴出品* 支持9.0  <br>VirtualAPK是滴滴出行自研的一款优秀的插件化框架,支持四大组件
 * [DynamicAPK](https://github.com/CtripMobile/DynamicAPK) *携程*  <br>实现Android App多apk插件化和动态加载，支持资源分包和热修复
 * [dynamic-load-apk](https://github.com/singwhatiwanna/dynamic-load-apk) *任玉刚 任主席*  <br>实现Android App多apk插件化和动态加载，支持资源分包
+* [Shadow](https://github.com/Tencent/Shadow) *腾讯 *  <br>零反射全动态Android插件框架
 ### 性能优化
 * [leakcanary](https://github.com/square/leakcanary/) *square*  <br>检测内存泄露
 * [matrix](https://github.com/Tencent/matrix) *腾讯 微信团队*  <br>Matrix 当前监控范围包括：应用安装包大小，帧率变化，启动耗时，卡顿，慢方法，SQLite 操作优化，文件读写，内存泄漏等等
