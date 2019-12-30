@@ -56,3 +56,10 @@ WMRouter是一款Android路由框架，基于组件化的设计思路，有功�
 * [Compressor](https://github.com/zetbaitsu/Compressor) 
 * [Tiny](https://github.com/Sunzxyong/Tiny) 
  https://github.com/Sunzxyong/Tiny
+### 屏幕适配
+* [AndroidAutoSize](https://github.com/JessYanCoding/AndroidAutoSize) 由个人对 今日头条 方案的一种封装，业界内比较认可的一种方式
+* [AndroidAutoLayout](https://github.com/hongyangAndroid/AndroidAutoLayout) 张鸿洋封装的一套。已经有很长时间不维护了
+
+
+
+
