@@ -44,6 +44,7 @@ WMRouter是一款Android路由框架，基于组件化的设计思路，有功�
 * [dynamic-load-apk](https://github.com/singwhatiwanna/dynamic-load-apk) *任玉刚 任主席*  <br>实现Android App多apk插件化和动态加载，支持资源分包
 * [Shadow](https://github.com/Tencent/Shadow) *腾讯 *  <br>零反射全动态Android插件框架
 * [Small](https://github.com/wequick/Small)
+
 ### 性能优化
 * [leakcanary](https://github.com/square/leakcanary/) *square*  <br>检测内存泄露
 * [matrix](https://github.com/Tencent/matrix) *腾讯 微信团队*  <br>Matrix 当前监控范围包括：应用安装包大小，帧率变化，启动耗时，卡顿，慢方法，SQLite 操作优化，文件读写，内存泄漏等等
@@ -52,6 +53,8 @@ WMRouter是一款Android路由框架，基于组件化的设计思路，有功�
 * [AndroidPerformanceMonitor](https://github.com/markzhai/AndroidPerformanceMonitor) *老的名字BlockCanary*  <br>是一个Android平台的一个非侵入式的性能监控组件，应用只需要实现一个抽象类，提供一些该组件需要的上下文环境，就可以在平时使用应用的时候检测主线程上的各种卡慢问题，并通过组件提供的各种信息分析出原因并进行修复
 * [battery-historian](https://github.com/google/battery-historian) *google*  <br>电量优化
 * [DoraemonKit](https://github.com/didi/DoraemonKit) *滴滴*  <br>DoraemonKit 是一个功能集合面板，能够让每一个 App 快速接入一些常用的或者你没有实现的一些辅助开发工具、测试效率工具、视觉辅助工具，而且能够完美在 Doraemon 面板中接入你已经实现的与业务紧密耦合的一些非通有的辅助工具，功能强大，接入方便，便于扩展
+* [booster](https://github.com/didi/booster) *滴滴*  <br>是一款专门为移动应用设计的易用、轻量级且可扩展的质量优化框架，其目标主要是为了解决随着 APP 复杂度的提升而带来的性能、稳定性、包体积等一系列质量问题
+
 ### 图片压缩
 * [Luban](https://github.com/Curzibn/Luban)  可能是最接近微信朋友圈的图片压缩算法
 * [Compressor](https://github.com/zetbaitsu/Compressor) 
@@ -60,6 +63,10 @@ WMRouter是一款Android路由框架，基于组件化的设计思路，有功�
 ### 屏幕适配
 * [AndroidAutoSize](https://github.com/JessYanCoding/AndroidAutoSize) 由个人对 今日头条 方案的一种封装，业界内比较认可的一种方式
 * [AndroidAutoLayout](https://github.com/hongyangAndroid/AndroidAutoLayout) 张鸿洋封装的一套。已经有很长时间不维护了
+
+### 资源压缩（包体积）
+* [AabResGuard](https://github.com/bytedance/AabResGuard) *抖音团队* 资源混淆，较少包体积
+* [AndResGuard](https://github.com/shwenzhang/AndResGuard) *微信团队* 资源混淆工具大约是在2014年4月实现，并在微信5.4中使用，减少了大约1M的空间。然后在8月在公司内部开源，现以推广到QQ邮箱、QQ空间、手机管家等多个产品中使用
 
 
 
