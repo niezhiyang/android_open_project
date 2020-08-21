@@ -54,6 +54,7 @@ WMRouter是一款Android路由框架，基于组件化的设计思路，有功�
 * [battery-historian](https://github.com/google/battery-historian) *google*  <br>电量优化
 * [DoraemonKit](https://github.com/didi/DoraemonKit) *滴滴*  <br>DoraemonKit 是一个功能集合面板，能够让每一个 App 快速接入一些常用的或者你没有实现的一些辅助开发工具、测试效率工具、视觉辅助工具，而且能够完美在 Doraemon 面板中接入你已经实现的与业务紧密耦合的一些非通有的辅助工具，功能强大，接入方便，便于扩展
 * [booster](https://github.com/didi/booster) *滴滴*  <br>是一款专门为移动应用设计的易用、轻量级且可扩展的质量优化框架，其目标主要是为了解决随着 APP 复杂度的提升而带来的性能、稳定性、包体积等一系列质量问题
+* [alpha](https://github.com/alibaba/alpha) *阿里* Alpha是一个基于PERT图构建的Android异步启动框架，它简单，高效，功能完善。减少Application的启动时间
 
 ### 图片压缩
 * [Luban](https://github.com/Curzibn/Luban)  可能是最接近微信朋友圈的图片压缩算法
