@@ -22,6 +22,7 @@
 * [okhttputils](https://github.com/hongyangAndroid/okhttputils) 张鸿洋 大神对 okhttp 的一个封装 ，但是现在已经不维护了
 
 ### 组件化
+* [auto](https://github.com/google/auto) *google出* <br>
 * [ARouter](https://github.com/alibaba/ARouter) *阿里出品* <br>
 Android平台中对页面、服务提供路由功能的中间件，我的目标是 —— 简单且够用
 * [Andromeda](https://github.com/iqiyi/Andromeda) *爱奇艺出品* <br>
