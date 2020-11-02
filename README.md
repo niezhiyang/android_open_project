@@ -27,7 +27,8 @@
 Android平台中对页面、服务提供路由功能的中间件，我的目标是 —— 简单且够用
 * [Andromeda](https://github.com/iqiyi/Andromeda) *爱奇艺出品* <br>
 采用"接口+数据结构"的方式来实现组件间通信，这种方式相比协议的方式在于实现简单，维护方便.支持ipc
-* [WMRouter](https://github.com/meituan/WMRouter) *美团出品* 
+* [WMRouter](https://gi
+thub.com/meituan/WMRouter) *美团出品* 
 WMRouter是一款Android路由框架，基于组件化的设计思路，有功能灵活、使用简单的特点
 * [DeepLinkDispatch](https://github.com/jeasonlzy/okhttp-OkGo) *爱彼迎*
 * [ActivityRouter](https://github.com/mzule/ActivityRouter) 个人
@@ -69,7 +70,7 @@ WMRouter是一款Android路由框架，基于组件化的设计思路，有功�
 ### 资源压缩（包体积）
 * [AabResGuard](https://github.com/bytedance/AabResGuard) *抖音团队* 资源混淆，较少包体积
 * [AndResGuard](https://github.com/shwenzhang/AndResGuard) *微信团队* 资源混淆工具大约是在2014年4月实现，并在微信5.4中使用，减少了大约1M的空间。然后在8月在公司内部开源，现以推广到QQ邮箱、QQ空间、手机管家等多个产品中使用
-
-
+### 优秀的插件
+* [ByteX](https://github.com/bytedance/ByteX/blob/master/README_zh.md) 字节
 
 
