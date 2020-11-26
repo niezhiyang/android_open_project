@@ -40,6 +40,7 @@ WMRouter是一款Android路由框架，基于组件化的设计思路，有功�
 * [Robust](https://github.com/Meituan-Dianping/Robust) *美团*
 * [Amigo](https://github.com/eleme/Amigo) *饿了么*
 ### 插件化
+* [DroidPlugin](https://github.com/DroidPluginTeam/DroidPlugin) 已经不维护了
 * [RePlugin](https://github.com/Qihoo360/RePlugin) *奇虎360出品* 支持9.0  <br>RePlugin是一套完整的、稳定的、适合全面使用的，占坑类插件化方案，由360手机卫士的RePlugin Team研发，也是业内首个提出”全面插件化“（全面特性、全面兼容、全面使用）的方案
 * [VirtualAPK](https://github.com/didi/VirtualAPK) *滴滴出品* 支持9.0  <br>VirtualAPK是滴滴出行自研的一款优秀的插件化框架,支持四大组件
 * [DynamicAPK](https://github.com/CtripMobile/DynamicAPK) *携程*  <br>实现Android App多apk插件化和动态加载，支持资源分包和热修复
