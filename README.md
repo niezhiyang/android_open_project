@@ -52,7 +52,7 @@ WMRouter是一款Android路由框架，基于组件化的设计思路，有功�
 * [leakcanary](https://github.com/square/leakcanary/) *square*  <br>检测内存泄露
 * [matrix](https://github.com/Tencent/matrix) *腾讯 微信团队*  <br>Matrix 当前监控范围包括：应用安装包大小，帧率变化，启动耗时，卡顿，慢方法，SQLite 操作优化，文件读写，内存泄漏等等
 * [ArgusAPM](https://github.com/Qihoo360/ArgusAPM) *360*  <br>ArgusAPM是360手机卫士客户端团队继RePlugin之后开源的又一个重量级开源项目。ArgusAPM是360移动端产品使用的可视化性能监控平台，为移动端APP提供性能监控与管理，可以迅速发现和定位各类APP性能和使用问题，帮助APP不断的提升用户体验。
-* [hugo](https://github.com/JakeWharton/hugo) *JakeWharton*  <br>检测方法执行的时间
+
 * [AndroidPerformanceMonitor](https://github.com/markzhai/AndroidPerformanceMonitor) *老的名字BlockCanary*  <br>是一个Android平台的一个非侵入式的性能监控组件，应用只需要实现一个抽象类，提供一些该组件需要的上下文环境，就可以在平时使用应用的时候检测主线程上的各种卡慢问题，并通过组件提供的各种信息分析出原因并进行修复
 * [battery-historian](https://github.com/google/battery-historian) *google*  <br>电量优化
 * [DoraemonKit](https://github.com/didi/DoraemonKit) *滴滴*  <br>DoraemonKit 是一个功能集合面板，能够让每一个 App 快速接入一些常用的或者你没有实现的一些辅助开发工具、测试效率工具、视觉辅助工具，而且能够完美在 Doraemon 面板中接入你已经实现的与业务紧密耦合的一些非通有的辅助工具，功能强大，接入方便，便于扩展
@@ -73,6 +73,13 @@ WMRouter是一款Android路由框架，基于组件化的设计思路，有功�
 * [AndResGuard](https://github.com/shwenzhang/AndResGuard) *微信团队* 资源混淆工具大约是在2014年4月实现，并在微信5.4中使用，减少了大约1M的空间。然后在8月在公司内部开源，现以推广到QQ邮箱、QQ空间、手机管家等多个产品中使用
 ### 优秀的插件
 * [ByteX](https://github.com/bytedance/ByteX/blob/master/README_zh.md) 字节
+1. 干净地删除某些方法调用，如Log.d
+2. R文件常量内联，R文件瘦身；无用Resource资源检查；无用assets检查。
+3. 文件流的close检查 等等
+
+* [Hunter](https://github.com/Leaking/Hunter) 里面有全局网络监控，打印出这个方法所有输入参数的值，以及返回值，执行时间
+* [Luffy](https://github.com/JieYuShi/Luffy) 全自动埋点，已经不维护了，需要自己二次开发
+* [hugo](https://github.com/JakeWharton/hugo) *JakeWharton*  <br>检测方法执行的时间
 
 ### 好看实用日志
 * [logger](https://github.com/orhanobut/logger)
