@@ -81,6 +81,8 @@ WMRouter是一款Android路由框架，基于组件化的设计思路，有功�
 * [Luffy](https://github.com/JieYuShi/Luffy) 全自动埋点，已经不维护了，需要自己二次开发
 * [hugo](https://github.com/JakeWharton/hugo) *JakeWharton*  <br>检测方法执行的时间
 
+### native层内存泄漏
+* [memory-leak-detector](https://github.com/bytedance/memory-leak-detector) 字节跳动
 ### 好看实用日志
 * [logger](https://github.com/orhanobut/logger)
 * [timber](https://github.com/JakeWharton/timber)
@@ -88,4 +90,8 @@ WMRouter是一款Android路由框架，基于组件化的设计思路，有功�
 ### 收集内存
 * [KOOM](https://github.com/KwaiAppTeam/KOOM) 快手的高性能线上内存监控方案
 * [tailor](https://github.com/bytedance/tailor) 头条西瓜团队。ailor是西瓜Android团队开发的一款通用内存快照裁剪压缩工具，通过它可以在异常时直接dump出一个迷你内存快照。快照中没 有任何敏感信息，更重要的是文件非常小的同时数据也相对完整，非常适合离线分析OOM及其他类型异常的调查定位
+
+### native hook
+-  [xHook](https://github.com/iqiyi/xHook) 爱奇艺
+-  [bhook](https://github.com/bytedance/bhook) 字节
 
