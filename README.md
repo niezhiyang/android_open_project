@@ -12,6 +12,7 @@
 * [RxPermissions](https://github.com/tbruyelle/RxPermissions)链式编程
 * [easypermissions](https://github.com/googlesamples/easypermissions)google <br>官方的处理方式
 * [AndPermission](https://github.com/yanzhenjie/AndPermission) 严振杰的
+* [XXPermissions](https://github.com/getActivity/XXPermissions) 里面有所有权限框架的对比
 ### 网络请求
 * [retrofit](https://github.com/square/retrofit)配合 okhttp 是这两年最火的一个请求框架
 * [okhttp](https://github.com/square/okhttp) 近两年最火的一个
