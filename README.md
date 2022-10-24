@@ -97,3 +97,7 @@ xhook 和 bhook 都是同一个人写的，可以从提交人的信息上看出
 -  [xHook](https://github.com/iqiyi/xHook) 爱奇艺 
 -  [bhook](https://github.com/bytedance/bhook) 字节
 
+### 自定义lint
+- [google](https://github.com/googlesamples/android-custom-lint-rules)
+- [某人](https://github.com/RocketZLY/AndroidLint/tree/dev)
+
