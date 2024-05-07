@@ -101,3 +101,8 @@ xhook 和 bhook 都是同一个人写的，可以从提交人的信息上看出
 - [google](https://github.com/googlesamples/android-custom-lint-rules)
 - [某人](https://github.com/RocketZLY/AndroidLint/tree/dev)
 
+### Gradlw
+- [【Gradle-14】编译优化之Gradle最佳配置实践](https://juejin.cn/post/7344625554529730600)
+- [【Gradle-7】Gradle构建核心之Task指南](https://juejin.cn/post/7248207744087277605)
+- [task-tree](https://github.com/dorongold/gradle-task-tree)
+
