@@ -87,7 +87,8 @@ WMRouter是一款Android路由框架，基于组件化的设计思路，有功�
 ### 好看实用日志
 * [logger](https://github.com/orhanobut/logger)
 * [timber](https://github.com/JakeWharton/timber)
-* [Logan](https://github.com/Meituan-Dianping/Logan/blob/master/README-zh.md)
+* [Logan](https://github.com/Meituan-Dianping/Logan/blob/master/README-zh.md) 美团的
+* [mars](https://github.com/Tencent/mars?tab=readme-ov-file#mars_cn) 腾讯
 
 ### 收集内存
 * [KOOM](https://github.com/KwaiAppTeam/KOOM) 快手的高性能线上内存监控方案
